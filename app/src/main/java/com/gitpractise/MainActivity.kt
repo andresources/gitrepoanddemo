@@ -16,8 +16,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            //Ti
-            //This
+            //This is Test Branch
             GitPractiseTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(
