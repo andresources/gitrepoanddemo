@@ -17,6 +17,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             //This is Test Branch
+            //THis is Test1 Branch
             GitPractiseTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(
