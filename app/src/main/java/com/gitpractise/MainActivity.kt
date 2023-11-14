@@ -18,6 +18,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             //This is Test Branch
             //THis is Test1 Branch
+            //This from github
             GitPractiseTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(
